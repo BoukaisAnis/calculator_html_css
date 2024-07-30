@@ -91,6 +91,9 @@ border-radius: 15px;
 .btn-cbtn:active{
     background-color: rgb(149, 145, 145);
 }
+h4{
+    padding-left:  140px;
+}
 /* Mobile Styles */
 @media (max-width: 600px) {
     .calculator {
